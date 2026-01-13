@@ -1,0 +1,14 @@
+{
+  "Group": "ACraftingFish",
+  "Name": "No Ground Flying",
+  "Version": "1.0.0",
+  "Authors": [
+    {
+      "Name": "ACraftingFish",
+      "Email": "a@crafting.fish",
+      "Url": "https://crafting.fish"
+    }
+  ],
+  "Main": "fish.crafting.nogroundflying.NoGroundFlyingPlugin",
+  "ServerVersion": "*"
+}
